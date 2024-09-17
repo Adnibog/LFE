@@ -2,7 +2,7 @@
 
 In this project we carry out linear feature engineering.
 
-To run this code do the following:
+To run this code, do the following:
 
 **pip install -r requirements.txt**
 
